@@ -1,0 +1,1390 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Mario}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fab0254eb798c716f62c36db7814c5d3}{%
+           family={Altice},
+           familyi={A\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fab0254eb798c716f62c36db7814c5d3}
+      \strng{fullhash}{fab0254eb798c716f62c36db7814c5d3}
+      \strng{bibnamehash}{fab0254eb798c716f62c36db7814c5d3}
+      \strng{authorbibnamehash}{fab0254eb798c716f62c36db7814c5d3}
+      \strng{authornamehash}{fab0254eb798c716f62c36db7814c5d3}
+      \strng{authorfullhash}{fab0254eb798c716f62c36db7814c5d3}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{The long shadow of Super Mario Bros.}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.gamasutra.com/view/news/253377/The_long_shadow_of_Super_Mario_Bros.php
+      \endverb
+      \verb{url}
+      \verb https://www.gamasutra.com/view/news/253377/The_long_shadow_of_Super_Mario_Bros.php
+      \endverb
+    \endentry
+    \entry{geruest}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=94762d85021c8fb52a43435f19cb00d4}{%
+           family={{Barrett Byrd Associates}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{94762d85021c8fb52a43435f19cb00d4}
+      \strng{fullhash}{94762d85021c8fb52a43435f19cb00d4}
+      \strng{bibnamehash}{94762d85021c8fb52a43435f19cb00d4}
+      \strng{authorbibnamehash}{94762d85021c8fb52a43435f19cb00d4}
+      \strng{authornamehash}{94762d85021c8fb52a43435f19cb00d4}
+      \strng{authorfullhash}{94762d85021c8fb52a43435f19cb00d4}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The prefabricated bedroom modules sit on a two storey steel frame}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.newsteelconstruction.com/wp/modular-construction-checks-in/
+      \endverb
+      \verb{url}
+      \verb https://www.newsteelconstruction.com/wp/modular-construction-checks-in/
+      \endverb
+    \endentry
+    \entry{blender}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=681f54fa4bb99512f58e39f158f291b8}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Rheinwerk}%
+      }
+      \strng{namehash}{681f54fa4bb99512f58e39f158f291b8}
+      \strng{fullhash}{681f54fa4bb99512f58e39f158f291b8}
+      \strng{bibnamehash}{681f54fa4bb99512f58e39f158f291b8}
+      \strng{authorbibnamehash}{681f54fa4bb99512f58e39f158f291b8}
+      \strng{authornamehash}{681f54fa4bb99512f58e39f158f291b8}
+      \strng{authorfullhash}{681f54fa4bb99512f58e39f158f291b8}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-8362-4454-1}
+      \field{title}{Blender 2.7 : Das umfassende Handbuch}
+      \field{year}{2017}
+    \endentry
+    \entry{blendermanual}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b9204300b17ba82133cedc0372418032}{%
+           family={{Blender Documentation Team}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9204300b17ba82133cedc0372418032}
+      \strng{fullhash}{b9204300b17ba82133cedc0372418032}
+      \strng{bibnamehash}{b9204300b17ba82133cedc0372418032}
+      \strng{authorbibnamehash}{b9204300b17ba82133cedc0372418032}
+      \strng{authornamehash}{b9204300b17ba82133cedc0372418032}
+      \strng{authorfullhash}{b9204300b17ba82133cedc0372418032}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blender 2.80 Reference Manual}
+      \field{year}{o.D.}
+      \verb{urlraw}
+      \verb https://docs.blender.org/manual/en/latest/modeling/meshes/editing/index.html
+      \endverb
+      \verb{url}
+      \verb https://docs.blender.org/manual/en/latest/modeling/meshes/editing/index.html
+      \endverb
+    \endentry
+    \entry{Burgess}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=78a989bacf5387ff060ddf878ec6565a}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e02a557f43d18bc2abb7063e9f118bba}{%
+           family={Purkeypile},
+           familyi={P\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{fullhash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{bibnamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authorbibnamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authornamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authorfullhash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Skyrim's Modular Approach to Level Design}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html
+      \endverb
+      \verb{url}
+      \verb http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html
+      \endverb
+    \endentry
+    \entry{Fallout4P}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=78a989bacf5387ff060ddf878ec6565a}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e02a557f43d18bc2abb7063e9f118bba}{%
+           family={Purkeypile},
+           familyi={P\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{fullhash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{bibnamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authorbibnamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authornamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authorfullhash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{[Präsentation] "Fallout 4's" Modular Level Design}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://gdcvault.com/play/1022930/-Fallout-4-s-Modular
+      \endverb
+      \verb{url}
+      \verb https://gdcvault.com/play/1022930/-Fallout-4-s-Modular
+      \endverb
+    \endentry
+    \entry{Fallout4}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=78a989bacf5387ff060ddf878ec6565a}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e02a557f43d18bc2abb7063e9f118bba}{%
+           family={Purkeypile},
+           familyi={P\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {GDC}%
+      }
+      \strng{namehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{fullhash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{bibnamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authorbibnamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authornamehash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \strng{authorfullhash}{9c0eafa5f21c6944a1616cd72cc2782f}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{[Video] "Fallout 4's" Modular Level Design}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://gdcvault.com/play/1023202/-Fallout-4-s-Modular
+      \endverb
+      \verb{url}
+      \verb https://gdcvault.com/play/1023202/-Fallout-4-s-Modular
+      \endverb
+    \endentry
+    \entry{Grabstein}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=226bc7e371e7ee810e69261711dde94d}{%
+           family={Burrows},
+           familyi={B\bibinitperiod},
+           given={Aidy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{226bc7e371e7ee810e69261711dde94d}
+      \strng{fullhash}{226bc7e371e7ee810e69261711dde94d}
+      \strng{bibnamehash}{226bc7e371e7ee810e69261711dde94d}
+      \strng{authorbibnamehash}{226bc7e371e7ee810e69261711dde94d}
+      \strng{authornamehash}{226bc7e371e7ee810e69261711dde94d}
+      \strng{authorfullhash}{226bc7e371e7ee810e69261711dde94d}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{What To Know When Creating Next Gen Assets}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://cgmasters.net/free-tutorials/what-to-know-when-creating-next-gen-assets/
+      \endverb
+      \verb{url}
+      \verb https://cgmasters.net/free-tutorials/what-to-know-when-creating-next-gen-assets/
+      \endverb
+    \endentry
+    \entry{modcode}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0c84a159a7c61ec58f18f50ccd9099fe}{%
+           family={Coss},
+           familyi={C\bibinitperiod},
+           given={Decky},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c84a159a7c61ec58f18f50ccd9099fe}
+      \strng{fullhash}{0c84a159a7c61ec58f18f50ccd9099fe}
+      \strng{bibnamehash}{0c84a159a7c61ec58f18f50ccd9099fe}
+      \strng{authorbibnamehash}{0c84a159a7c61ec58f18f50ccd9099fe}
+      \strng{authornamehash}{0c84a159a7c61ec58f18f50ccd9099fe}
+      \strng{authorfullhash}{0c84a159a7c61ec58f18f50ccd9099fe}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Making modular videogames}
+      \field{year}{o.D.}
+      \verb{urlraw}
+      \verb https://codewords.recurse.com/issues/three/making-modular-videogames
+      \endverb
+      \verb{url}
+      \verb https://codewords.recurse.com/issues/three/making-modular-videogames
+      \endverb
+    \endentry
+    \entry{Borderlands}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=454a7ab873994060a1d8c3baa3422660}{%
+           family={Crecente},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{454a7ab873994060a1d8c3baa3422660}
+      \strng{fullhash}{454a7ab873994060a1d8c3baa3422660}
+      \strng{bibnamehash}{454a7ab873994060a1d8c3baa3422660}
+      \strng{authorbibnamehash}{454a7ab873994060a1d8c3baa3422660}
+      \strng{authornamehash}{454a7ab873994060a1d8c3baa3422660}
+      \strng{authorfullhash}{454a7ab873994060a1d8c3baa3422660}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Polygon}
+      \field{title}{Borderlands 2's amazing weapons and their bizarre inspirations, from Apple to Austrian cars}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.polygon.com/gaming/2012/4/4/2924678/borderlands-2s-amazing-weapons-and-their-bizarre-inspirations
+      \endverb
+      \verb{url}
+      \verb https://www.polygon.com/gaming/2012/4/4/2924678/borderlands-2s-amazing-weapons-and-their-bizarre-inspirations
+      \endverb
+    \endentry
+    \entry{ForHonor}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a73b81374e85bd8587b45d036a473167}{%
+           family={Durand},
+           familyi={D\bibinitperiod},
+           given={Laurie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a73b81374e85bd8587b45d036a473167}
+      \strng{fullhash}{a73b81374e85bd8587b45d036a473167}
+      \strng{bibnamehash}{a73b81374e85bd8587b45d036a473167}
+      \strng{authorbibnamehash}{a73b81374e85bd8587b45d036a473167}
+      \strng{authornamehash}{a73b81374e85bd8587b45d036a473167}
+      \strng{authorfullhash}{a73b81374e85bd8587b45d036a473167}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Environment Design for AAA Games with Laurie Durand}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://80.lv/articles/environment-design-for-aaa-games-with-laurie-durand/
+      \endverb
+      \verb{url}
+      \verb https://80.lv/articles/environment-design-for-aaa-games-with-laurie-durand/
+      \endverb
+    \endentry
+    \entry{MarioTiles}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=60755042d62608a51aadabeb3b7a7b72}{%
+           family={Earl},
+           familyi={E\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60755042d62608a51aadabeb3b7a7b72}
+      \strng{fullhash}{60755042d62608a51aadabeb3b7a7b72}
+      \strng{bibnamehash}{60755042d62608a51aadabeb3b7a7b72}
+      \strng{authorbibnamehash}{60755042d62608a51aadabeb3b7a7b72}
+      \strng{authornamehash}{60755042d62608a51aadabeb3b7a7b72}
+      \strng{authorfullhash}{60755042d62608a51aadabeb3b7a7b72}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Extracting Super Mario Bros levels with Python}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://matthewearl.github.io/2018/06/28/smb-level-extractor/
+      \endverb
+      \verb{url}
+      \verb http://matthewearl.github.io/2018/06/28/smb-level-extractor/
+      \endverb
+    \endentry
+    \entry{Daggerfall}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=41f1fea34eea64a839c8400ac5228678}{%
+           family={{Elderscrollsportal}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{41f1fea34eea64a839c8400ac5228678}
+      \strng{fullhash}{41f1fea34eea64a839c8400ac5228678}
+      \strng{bibnamehash}{41f1fea34eea64a839c8400ac5228678}
+      \strng{authorbibnamehash}{41f1fea34eea64a839c8400ac5228678}
+      \strng{authornamehash}{41f1fea34eea64a839c8400ac5228678}
+      \strng{authorfullhash}{41f1fea34eea64a839c8400ac5228678}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Daggerfall:The Elder Scrolls II: Daggerfall}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.elderscrollsportal.de/almanach/Daggerfall:The_Elder_Scrolls_II:_Daggerfall
+      \endverb
+      \verb{url}
+      \verb https://www.elderscrollsportal.de/almanach/Daggerfall:The_Elder_Scrolls_II:_Daggerfall
+      \endverb
+    \endentry
+    \entry{flipped}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7e875368f34ab390f24efeac7952ee04}{%
+           family={FlippedNormals},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e875368f34ab390f24efeac7952ee04}
+      \strng{fullhash}{7e875368f34ab390f24efeac7952ee04}
+      \strng{bibnamehash}{7e875368f34ab390f24efeac7952ee04}
+      \strng{authorbibnamehash}{7e875368f34ab390f24efeac7952ee04}
+      \strng{authornamehash}{7e875368f34ab390f24efeac7952ee04}
+      \strng{authorfullhash}{7e875368f34ab390f24efeac7952ee04}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{[Video] Texture Maps Explained - Essential for All Texture Artists}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=ZOHNRlrd1Ak
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=ZOHNRlrd1Ak
+      \endverb
+    \endentry
+    \entry{BestEngine}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b72308e93b95d59a92ad96dd52f32e4c}{%
+           family={GameDesigning},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b72308e93b95d59a92ad96dd52f32e4c}
+      \strng{fullhash}{b72308e93b95d59a92ad96dd52f32e4c}
+      \strng{bibnamehash}{b72308e93b95d59a92ad96dd52f32e4c}
+      \strng{authorbibnamehash}{b72308e93b95d59a92ad96dd52f32e4c}
+      \strng{authornamehash}{b72308e93b95d59a92ad96dd52f32e4c}
+      \strng{authorfullhash}{b72308e93b95d59a92ad96dd52f32e4c}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Top 10 Video Game Engines}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.gamedesigning.org/career/video-game-engines/
+      \endverb
+      \verb{url}
+      \verb https://www.gamedesigning.org/career/video-game-engines/
+      \endverb
+    \endentry
+    \entry{Jess}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=70d0fa7992786650d8798c9542116583}{%
+           family={Hider},
+           familyi={H\bibinitperiod},
+           given={Jess},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70d0fa7992786650d8798c9542116583}
+      \strng{fullhash}{70d0fa7992786650d8798c9542116583}
+      \strng{bibnamehash}{70d0fa7992786650d8798c9542116583}
+      \strng{authorbibnamehash}{70d0fa7992786650d8798c9542116583}
+      \strng{authornamehash}{70d0fa7992786650d8798c9542116583}
+      \strng{authorfullhash}{70d0fa7992786650d8798c9542116583}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Real Time Rendering}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/
+      \endverb
+      \verb{url}
+      \verb https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/
+      \endverb
+    \endentry
+    \entry{LegoBuch}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=839663e64c40937505ded02471119978}{%
+           family={Hugo},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Dorling Kindersley}%
+      }
+      \strng{namehash}{839663e64c40937505ded02471119978}
+      \strng{fullhash}{839663e64c40937505ded02471119978}
+      \strng{bibnamehash}{839663e64c40937505ded02471119978}
+      \strng{authorbibnamehash}{839663e64c40937505ded02471119978}
+      \strng{authornamehash}{839663e64c40937505ded02471119978}
+      \strng{authorfullhash}{839663e64c40937505ded02471119978}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{978-3-8310-3509-0}
+      \field{title}{LEGO – Absolut alles, was du wissen musst: Das Beste aus dem LEGO® Universum}
+      \field{year}{2018}
+    \endentry
+    \entry{Morrowind}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e180d175815926e10cf844c326004d79}{%
+           family={Kane},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e180d175815926e10cf844c326004d79}
+      \strng{fullhash}{e180d175815926e10cf844c326004d79}
+      \strng{bibnamehash}{e180d175815926e10cf844c326004d79}
+      \strng{authorbibnamehash}{e180d175815926e10cf844c326004d79}
+      \strng{authornamehash}{e180d175815926e10cf844c326004d79}
+      \strng{authorfullhash}{e180d175815926e10cf844c326004d79}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Morrowind: An oral history}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.polygon.com/2019/3/27/18281082/elder-scrolls-morrowind-oral-history-bethesda
+      \endverb
+      \verb{url}
+      \verb https://www.polygon.com/2019/3/27/18281082/elder-scrolls-morrowind-oral-history-bethesda
+      \endverb
+    \endentry
+    \entry{Klafke}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=86a7ac6e8624b8583b355abea8cd59c5}{%
+           family={Klafke},
+           familyi={K\bibinitperiod},
+           given={Thiago},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{86a7ac6e8624b8583b355abea8cd59c5}
+      \strng{fullhash}{86a7ac6e8624b8583b355abea8cd59c5}
+      \strng{bibnamehash}{86a7ac6e8624b8583b355abea8cd59c5}
+      \strng{authorbibnamehash}{86a7ac6e8624b8583b355abea8cd59c5}
+      \strng{authornamehash}{86a7ac6e8624b8583b355abea8cd59c5}
+      \strng{authorfullhash}{86a7ac6e8624b8583b355abea8cd59c5}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Creating modular environments in UDK}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb http://www.thiagoklafke.com/modularenvironments.html
+      \endverb
+      \verb{url}
+      \verb http://www.thiagoklafke.com/modularenvironments.html
+      \endverb
+    \endentry
+    \entry{Klevestav}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=1125982cefbaa2f3f067c597429b6999}{%
+           family={Klevestav},
+           familyi={K\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1125982cefbaa2f3f067c597429b6999}
+      \strng{fullhash}{1125982cefbaa2f3f067c597429b6999}
+      \strng{bibnamehash}{1125982cefbaa2f3f067c597429b6999}
+      \strng{authorbibnamehash}{1125982cefbaa2f3f067c597429b6999}
+      \strng{authornamehash}{1125982cefbaa2f3f067c597429b6999}
+      \strng{authorfullhash}{1125982cefbaa2f3f067c597429b6999}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Working with modular sets}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb http://www.philipk.net/tutorials/modular_sets/modular_sets.html
+      \endverb
+      \verb{url}
+      \verb http://www.philipk.net/tutorials/modular_sets/modular_sets.html
+      \endverb
+    \endentry
+    \entry{Lawson}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2ba54ad6abca79931e411ca378498a9d}{%
+           family={Lawson},
+           familyi={L\bibinitperiod},
+           given={R.M.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f7e9c539afec2097b4299fd5c1708a77}{%
+           family={Ogden},
+           familyi={O\bibinitperiod},
+           given={R.G.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{290baf42846d94d425454518f876805f}
+      \strng{fullhash}{290baf42846d94d425454518f876805f}
+      \strng{bibnamehash}{290baf42846d94d425454518f876805f}
+      \strng{authorbibnamehash}{290baf42846d94d425454518f876805f}
+      \strng{authornamehash}{290baf42846d94d425454518f876805f}
+      \strng{authorfullhash}{290baf42846d94d425454518f876805f}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sustainability and Process Benefits of Modular Construction}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://www.irbnet.de/daten/iconda/CIB18783.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.irbnet.de/daten/iconda/CIB18783.pdf
+      \endverb
+    \endentry
+    \entry{unrealModular}{online}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=b3cd9344dad3ff77b4fd532b70660aa2}{%
+           family={Lin},
+           familyi={L\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=f4d48f7c8a9266954f846ded20ee63c4}{%
+           family={Lentz},
+           familyi={L\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=25f66ab90a0e18ffe1901debf87d5d13}{%
+           family={Sturgill},
+           familyi={S\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=5f04cfaf269fa89ee3bf0a84383ee9cf}{%
+           family={Reed},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{be219a89ce6706f89d0b1bccb8ac9f8f}
+      \strng{fullhash}{a207f11a0a4bd6d1c499f963deffa488}
+      \strng{bibnamehash}{a207f11a0a4bd6d1c499f963deffa488}
+      \strng{authorbibnamehash}{a207f11a0a4bd6d1c499f963deffa488}
+      \strng{authornamehash}{be219a89ce6706f89d0b1bccb8ac9f8f}
+      \strng{authorfullhash}{a207f11a0a4bd6d1c499f963deffa488}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Workflow Techniques and Modularity}
+      \field{year}{o.D.}
+      \verb{urlraw}
+      \verb https://api.unrealengine.com/udk/Two/WorkflowAndModularity.html
+      \endverb
+      \verb{url}
+      \verb https://api.unrealengine.com/udk/Two/WorkflowAndModularity.html
+      \endverb
+    \endentry
+    \entry{Mader}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8697fe8da13147c6fc42efe58c1ec416}{%
+           family={Mader},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8697fe8da13147c6fc42efe58c1ec416}
+      \strng{fullhash}{8697fe8da13147c6fc42efe58c1ec416}
+      \strng{bibnamehash}{8697fe8da13147c6fc42efe58c1ec416}
+      \strng{authorbibnamehash}{8697fe8da13147c6fc42efe58c1ec416}
+      \strng{authornamehash}{8697fe8da13147c6fc42efe58c1ec416}
+      \strng{authorfullhash}{8697fe8da13147c6fc42efe58c1ec416}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Creating Modular Game Art For Fast Level Design}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://www.gamasutra.com/view/feature/130885/creating_modular_game_art_for_fast_.php
+      \endverb
+      \verb{url}
+      \verb https://www.gamasutra.com/view/feature/130885/creating_modular_game_art_for_fast_.php
+      \endverb
+    \endentry
+    \entry{music}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=35b55d1f346ab192ebcc4c3bd08bc90c}{%
+           family={Medina-Gray},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35b55d1f346ab192ebcc4c3bd08bc90c}
+      \strng{fullhash}{35b55d1f346ab192ebcc4c3bd08bc90c}
+      \strng{bibnamehash}{35b55d1f346ab192ebcc4c3bd08bc90c}
+      \strng{authorbibnamehash}{35b55d1f346ab192ebcc4c3bd08bc90c}
+      \strng{authornamehash}{35b55d1f346ab192ebcc4c3bd08bc90c}
+      \strng{authorfullhash}{35b55d1f346ab192ebcc4c3bd08bc90c}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modular Structure and Function in Early 21st-Century Video Game Music}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.academia.edu/7594328/Modular_Structure_and_Function_in_Early_21st-Century_Video_Game_Music
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/7594328/Modular_Structure_and_Function_in_Early_21st-Century_Video_Game_Music
+      \endverb
+    \endentry
+    \entry{Meler}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8e7b2280a78767c3889271a47e83656}{%
+           family={Meler},
+           familyi={M\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f8e7b2280a78767c3889271a47e83656}
+      \strng{fullhash}{f8e7b2280a78767c3889271a47e83656}
+      \strng{bibnamehash}{f8e7b2280a78767c3889271a47e83656}
+      \strng{authorbibnamehash}{f8e7b2280a78767c3889271a47e83656}
+      \strng{authornamehash}{f8e7b2280a78767c3889271a47e83656}
+      \strng{authorfullhash}{f8e7b2280a78767c3889271a47e83656}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Modular Concepts for Game and Virtual Reality Assets}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://software.intel.com/en-us/articles/modular-concepts-for-game-and-virtual-reality-assets
+      \endverb
+      \verb{url}
+      \verb https://software.intel.com/en-us/articles/modular-concepts-for-game-and-virtual-reality-assets
+      \endverb
+    \endentry
+    \entry{KitelementeSkizze}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=541386ec3d29427b7d257ee0a7462175}{%
+           family={{Muza-chan}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{541386ec3d29427b7d257ee0a7462175}
+      \strng{fullhash}{541386ec3d29427b7d257ee0a7462175}
+      \strng{bibnamehash}{541386ec3d29427b7d257ee0a7462175}
+      \strng{authorbibnamehash}{541386ec3d29427b7d257ee0a7462175}
+      \strng{authornamehash}{541386ec3d29427b7d257ee0a7462175}
+      \strng{authorfullhash}{541386ec3d29427b7d257ee0a7462175}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Matsumoto Castle, Matsumoto}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://muza-chan.net/japan/index.php/blog/japanese-castle-architecture-renketsushiki-style
+      \endverb
+      \verb{url}
+      \verb https://muza-chan.net/japan/index.php/blog/japanese-castle-architecture-renketsushiki-style
+      \endverb
+    \endentry
+    \entry{marioAnalog}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d1bc873bf3f42f67d6532fd992d5ac21}{%
+           family={{Nintendo, Miyamoto, S., Tezuka T.}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Nintendo}%
+      }
+      \strng{namehash}{d1bc873bf3f42f67d6532fd992d5ac21}
+      \strng{fullhash}{d1bc873bf3f42f67d6532fd992d5ac21}
+      \strng{bibnamehash}{d1bc873bf3f42f67d6532fd992d5ac21}
+      \strng{authorbibnamehash}{d1bc873bf3f42f67d6532fd992d5ac21}
+      \strng{authornamehash}{d1bc873bf3f42f67d6532fd992d5ac21}
+      \strng{authorfullhash}{d1bc873bf3f42f67d6532fd992d5ac21}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Youtube}
+      \field{title}{[Video] Super Mario Bros. 30th Anniversary Special Interview ft. Shigeru Miyamoto \& Takashi Tezuka}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://youtu.be/DLoRd6_a1CI?t=163
+      \endverb
+      \verb{url}
+      \verb https://youtu.be/DLoRd6_a1CI?t=163
+      \endverb
+    \endentry
+    \entry{Norris}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=826ea0f4a34266c64ef8dfa27e687cba}{%
+           family={Norris},
+           familyi={N\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{826ea0f4a34266c64ef8dfa27e687cba}
+      \strng{fullhash}{826ea0f4a34266c64ef8dfa27e687cba}
+      \strng{bibnamehash}{826ea0f4a34266c64ef8dfa27e687cba}
+      \strng{authorbibnamehash}{826ea0f4a34266c64ef8dfa27e687cba}
+      \strng{authornamehash}{826ea0f4a34266c64ef8dfa27e687cba}
+      \strng{authorfullhash}{826ea0f4a34266c64ef8dfa27e687cba}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modular Building Set}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://images.purepolygons.com/building_tut/Building_Breakdown.pdf
+      \endverb
+      \verb{url}
+      \verb http://images.purepolygons.com/building_tut/Building_Breakdown.pdf
+      \endverb
+    \endentry
+    \entry{gpu}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=548cfa673bd46709c7643d9ea7ac7937}{%
+           family={O’Conor},
+           familyi={O\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{548cfa673bd46709c7643d9ea7ac7937}
+      \strng{fullhash}{548cfa673bd46709c7643d9ea7ac7937}
+      \strng{bibnamehash}{548cfa673bd46709c7643d9ea7ac7937}
+      \strng{authorbibnamehash}{548cfa673bd46709c7643d9ea7ac7937}
+      \strng{authornamehash}{548cfa673bd46709c7643d9ea7ac7937}
+      \strng{authorfullhash}{548cfa673bd46709c7643d9ea7ac7937}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{GPU Performance for Game Artists}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://fragmentbuffer.com/gpu-performance-for-game-artists/
+      \endverb
+      \verb{url}
+      \verb http://fragmentbuffer.com/gpu-performance-for-game-artists/
+      \endverb
+    \endentry
+    \entry{spacemodular}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=487c626f59f2b68a9885fc3336fc1ac5}{%
+           family={Olson},
+           familyi={O\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{487c626f59f2b68a9885fc3336fc1ac5}
+      \strng{fullhash}{487c626f59f2b68a9885fc3336fc1ac5}
+      \strng{bibnamehash}{487c626f59f2b68a9885fc3336fc1ac5}
+      \strng{authorbibnamehash}{487c626f59f2b68a9885fc3336fc1ac5}
+      \strng{authornamehash}{487c626f59f2b68a9885fc3336fc1ac5}
+      \strng{authorfullhash}{487c626f59f2b68a9885fc3336fc1ac5}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{80 Level}
+      \field{title}{Modular Sci-Fi Level in UE4}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://80.lv/articles/004adk-modular-sci-fi-level-in-ue4-by-matt-olson/
+      \endverb
+      \verb{url}
+      \verb https://80.lv/articles/004adk-modular-sci-fi-level-in-ue4-by-matt-olson/
+      \endverb
+    \endentry
+    \entry{JapanConcept}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d7e234254337b857b78dbce806280b3a}{%
+           family={Pampin},
+           familyi={P\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d7e234254337b857b78dbce806280b3a}
+      \strng{fullhash}{d7e234254337b857b78dbce806280b3a}
+      \strng{bibnamehash}{d7e234254337b857b78dbce806280b3a}
+      \strng{authorbibnamehash}{d7e234254337b857b78dbce806280b3a}
+      \strng{authornamehash}{d7e234254337b857b78dbce806280b3a}
+      \strng{authorfullhash}{d7e234254337b857b78dbce806280b3a}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Artstation Submission Feudal Japan: The Shogunate Environment Design}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.artstation.com/contests/feudal-japan/challenges/54/submissions/35789?sorting=latest
+      \endverb
+      \verb{url}
+      \verb https://www.artstation.com/contests/feudal-japan/challenges/54/submissions/35789?sorting=latest
+      \endverb
+    \endentry
+    \entry{Perry}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4dd1a5f62607191d32c68d890e4b4111}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4dd1a5f62607191d32c68d890e4b4111}
+      \strng{fullhash}{4dd1a5f62607191d32c68d890e4b4111}
+      \strng{bibnamehash}{4dd1a5f62607191d32c68d890e4b4111}
+      \strng{authorbibnamehash}{4dd1a5f62607191d32c68d890e4b4111}
+      \strng{authornamehash}{4dd1a5f62607191d32c68d890e4b4111}
+      \strng{authorfullhash}{4dd1a5f62607191d32c68d890e4b4111}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Modular Level and Component Design}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb https://api.unrealengine.com/udk/Three/rsrc/Three/ModularLevelDesign/ModularLevelDesign.pdf
+      \endverb
+      \verb{url}
+      \verb https://api.unrealengine.com/udk/Three/rsrc/Three/ModularLevelDesign/ModularLevelDesign.pdf
+      \endverb
+    \endentry
+    \entry{rehfeld}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=958638064bb698a4a68a0edf07cbd0bd}{%
+           family={Rehfeld},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Carl Hanser Verlag}%
+      }
+      \strng{namehash}{958638064bb698a4a68a0edf07cbd0bd}
+      \strng{fullhash}{958638064bb698a4a68a0edf07cbd0bd}
+      \strng{bibnamehash}{958638064bb698a4a68a0edf07cbd0bd}
+      \strng{authorbibnamehash}{958638064bb698a4a68a0edf07cbd0bd}
+      \strng{authornamehash}{958638064bb698a4a68a0edf07cbd0bd}
+      \strng{authorfullhash}{958638064bb698a4a68a0edf07cbd0bd}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783446436213}
+      \field{title}{Game Design und Produktion: Grundlagen, Anwendungen und Beispiele}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=c7dPAgAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=c7dPAgAAQBAJ
+      \endverb
+    \endentry
+    \entry{1837}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b0f332300ddc6a67ec67ff08e124132c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Ryan\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{b0f332300ddc6a67ec67ff08e124132c}
+      \strng{fullhash}{b0f332300ddc6a67ec67ff08e124132c}
+      \strng{bibnamehash}{b0f332300ddc6a67ec67ff08e124132c}
+      \strng{authorbibnamehash}{b0f332300ddc6a67ec67ff08e124132c}
+      \strng{authornamehash}{b0f332300ddc6a67ec67ff08e124132c}
+      \strng{authorfullhash}{b0f332300ddc6a67ec67ff08e124132c}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prefab Architecture: A Guide to Modular Design and Construction}
+      \field{year}{2011}
+    \endentry
+    \entry{Lego3in1}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e7da8ffcd507708ee41ba9fc7aeb4be2}{%
+           family={{The LEGO Group}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {The Lego Group}%
+      }
+      \strng{namehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{fullhash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{bibnamehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{authorbibnamehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{authornamehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{authorfullhash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{[Online Shop] The Lego Group Internetshop Unterkategorie Creator 3 in 1}
+      \field{year}{o.D.}
+      \verb{urlraw}
+      \verb https://shop.lego.com/de-DE/category/creator-3-in-1
+      \endverb
+      \verb{url}
+      \verb https://shop.lego.com/de-DE/category/creator-3-in-1
+      \endverb
+    \endentry
+    \entry{LegoMod}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e7da8ffcd507708ee41ba9fc7aeb4be2}{%
+           family={{The LEGO Group}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {The LEGO Group}%
+      }
+      \strng{namehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{fullhash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{bibnamehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{authorbibnamehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{authornamehash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \strng{authorfullhash}{e7da8ffcd507708ee41ba9fc7aeb4be2}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LEGO® Creator Expert – Modular Buildings 10th anniversary}
+      \field{year}{o.D.}
+      \verb{urlraw}
+      \verb https://www.lego.com/en-us/themes/creatorexpert/explore/modular-buildings-10th-anniversary
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/en-us/themes/creatorexpert/explore/modular-buildings-10th-anniversary
+      \endverb
+    \endentry
+    \entry{wand}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5f8b084fbb677c741842b6eb397b4bc5}{%
+           family={{Triumph Modular}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f8b084fbb677c741842b6eb397b4bc5}
+      \strng{fullhash}{5f8b084fbb677c741842b6eb397b4bc5}
+      \strng{bibnamehash}{5f8b084fbb677c741842b6eb397b4bc5}
+      \strng{authorbibnamehash}{5f8b084fbb677c741842b6eb397b4bc5}
+      \strng{authornamehash}{5f8b084fbb677c741842b6eb397b4bc5}
+      \strng{authorfullhash}{5f8b084fbb677c741842b6eb397b4bc5}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modular design: Sedona’s Economic Future}
+      \field{year}{o.D.}
+      \verb{urlraw}
+      \verb https://triumphmodular.com/blog/modular-design-sedona-economic-future/
+      \endverb
+      \verb{url}
+      \verb https://triumphmodular.com/blog/modular-design-sedona-economic-future/
+      \endverb
+    \endentry
+    \entry{ForHonorMapTypes}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bfcadc11173c352c91cf7472f4551a24}{%
+           family={{Ubisoft Entertainment}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfcadc11173c352c91cf7472f4551a24}
+      \strng{fullhash}{bfcadc11173c352c91cf7472f4551a24}
+      \strng{bibnamehash}{bfcadc11173c352c91cf7472f4551a24}
+      \strng{authorbibnamehash}{bfcadc11173c352c91cf7472f4551a24}
+      \strng{authornamehash}{bfcadc11173c352c91cf7472f4551a24}
+      \strng{authorfullhash}{bfcadc11173c352c91cf7472f4551a24}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{For Honor Ubisoft}
+      \field{year}{o.D.}
+      \verb{urlraw}
+      \verb https://forhonor.ubisoft.com/game/en-us/game-info/index.aspx
+      \endverb
+      \verb{url}
+      \verb https://forhonor.ubisoft.com/game/en-us/game-info/index.aspx
+      \endverb
+    \endentry
+    \entry{WoW}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=95c74fbeb7541206918784b0d87348ad}{%
+           family={Vergne},
+           familyi={V\bibinitperiod},
+           given={Fanny},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95c74fbeb7541206918784b0d87348ad}
+      \strng{fullhash}{95c74fbeb7541206918784b0d87348ad}
+      \strng{bibnamehash}{95c74fbeb7541206918784b0d87348ad}
+      \strng{authorbibnamehash}{95c74fbeb7541206918784b0d87348ad}
+      \strng{authornamehash}{95c74fbeb7541206918784b0d87348ad}
+      \strng{authorfullhash}{95c74fbeb7541206918784b0d87348ad}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{The Strings of Environment Design}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://80.lv/articles/the-strings-of-environment-design/
+      \endverb
+      \verb{url}
+      \verb https://80.lv/articles/the-strings-of-environment-design/
+      \endverb
+    \endentry
+    \entry{Engine}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2ae71a544bfeb82f67f353a353a1d0e8}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ae71a544bfeb82f67f353a353a1d0e8}
+      \strng{fullhash}{2ae71a544bfeb82f67f353a353a1d0e8}
+      \strng{bibnamehash}{2ae71a544bfeb82f67f353a353a1d0e8}
+      \strng{authorbibnamehash}{2ae71a544bfeb82f67f353a353a1d0e8}
+      \strng{authornamehash}{2ae71a544bfeb82f67f353a353a1d0e8}
+      \strng{authorfullhash}{2ae71a544bfeb82f67f353a353a1d0e8}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{What is a Game Engine?}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb http://www.gamecareerguide.com/features/529/what_is_a_game.php
+      \endverb
+      \verb{url}
+      \verb http://www.gamecareerguide.com/features/529/what_is_a_game.php
+      \endverb
+    \endentry
+    \entry{unrealTalk}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=af5df905add38c654042222e20d0a227}{%
+           family={Wassmer},
+           familyi={W\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af5df905add38c654042222e20d0a227}
+      \strng{fullhash}{af5df905add38c654042222e20d0a227}
+      \strng{bibnamehash}{af5df905add38c654042222e20d0a227}
+      \strng{authorbibnamehash}{af5df905add38c654042222e20d0a227}
+      \strng{authornamehash}{af5df905add38c654042222e20d0a227}
+      \strng{authorfullhash}{af5df905add38c654042222e20d0a227}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Youtube}
+      \field{month}{3}
+      \field{title}{[Video] Refactoring the Mesh Drawing Pipeline for Unreal Engine 4.22 | GDC 2019 | Unreal Engine}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://youtu.be/qx1c190aGhs?t=2128
+      \endverb
+      \verb{url}
+      \verb https://youtu.be/qx1c190aGhs?t=2128
+      \endverb
+    \endentry
+    \entry{moduwiki}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modularität --- Wikipedia{,} Die freie Enzyklopädie}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb \url{https://de.wikipedia.org/w/index.php?title=Modularit%C3%A4t&oldid=189371860}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://de.wikipedia.org/w/index.php?title=Modularit%C3%A4t&oldid=189371860%7D
+      \endverb
+    \endentry
+    \entry{GameHistory}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=38c6a15d43daa8565d14173e05326704}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{38c6a15d43daa8565d14173e05326704}
+      \strng{fullhash}{38c6a15d43daa8565d14173e05326704}
+      \strng{bibnamehash}{38c6a15d43daa8565d14173e05326704}
+      \strng{authorbibnamehash}{38c6a15d43daa8565d14173e05326704}
+      \strng{authornamehash}{38c6a15d43daa8565d14173e05326704}
+      \strng{authorfullhash}{38c6a15d43daa8565d14173e05326704}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781317503804}
+      \field{title}{History of Digital Games: Developments in Art, Design and Interaction}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=nLsrDwAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=nLsrDwAAQBAJ
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
